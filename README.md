@@ -1,1 +1,1 @@
-# CCT-Cloud
+# CCT-Cloud lab assesment
